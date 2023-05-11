@@ -1,0 +1,15 @@
+html {
+    background-color: #ffffff;
+}
+
+.nav-text {
+    font-size: 1.5em;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+/* Home Page */
+
+.home {
+    background-repeat: no-repeat;
+}
