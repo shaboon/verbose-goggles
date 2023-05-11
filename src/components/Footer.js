@@ -5,7 +5,9 @@ export default function Footer() {
     <div>
       <footer>
         <section>
-          <a href="https://github.com/shaboon">GitHub</a>
+          <a href="https://github.com/shaboon">
+            <img src="" />
+          </a>
         </section>
       </footer>
     </div>
