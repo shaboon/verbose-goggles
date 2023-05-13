@@ -4,10 +4,7 @@
 
 ## Description
 
-This application is a Note Taker. Within the program you may find the ability to take and record notes.
-
-![Image of in-browser application landing page](./public/assets/images/cuddly-enigma.herokuapp.com_.png)\
-![Image of in-browser application on note-taking page](<./public/assets/images/cuddly-enigma.herokuapp.com_notes%20(2).png>)
+This application is my React Portfolio for review and evaluation of my progress through the course.
 
 ## Table of Contents
 
@@ -24,7 +21,7 @@ This application is a Note Taker. Within the program you may find the ability to
 N/A - In Browser Application
 
 Application Link:\
-https://cuddly-enigma.herokuapp.com/
+https://shaboon.github.io/verbose-goggles/
 
 ![Image of my Portfolio About Me page](./src/img/localhost_3000_.png)
 
