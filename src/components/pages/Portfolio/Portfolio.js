@@ -31,7 +31,11 @@ export default function Projects() {
         </div>
       </article>
       <article className="bg-secondary rounded col-12 col-md-3 mx-1 p-2 my-3">
-        <img className="mx-auto proj-img" src={work}></img>
+        <img
+          className="mx-auto proj-img"
+          src={work}
+          alt="Work Day Scheduler screenshot"
+        ></img>
         <div className="container row">
           <section className="col-9 text-align-center">
             Work Day Scheduler
@@ -59,7 +63,11 @@ export default function Projects() {
         </div>
       </article>
       <article className="bg-secondary rounded col-12 col-md-3 mx-1 p-2 my-3">
-        <img className="mx-auto proj-img" src={password}></img>
+        <img
+          className="mx-auto proj-img"
+          src={password}
+          alt="Password Generator Screenshot"
+        ></img>
         <div className="container row">
           <section className="col-9 text-align-center">
             Password Generator
@@ -87,7 +95,11 @@ export default function Projects() {
         </div>
       </article>
       <article className="bg-secondary rounded col-12 col-md-3 mx-1 p-2 my-3">
-        <img className="mx-auto proj-img" src={finis}></img>
+        <img
+          className="mx-auto proj-img"
+          src={finis}
+          alt="Project 1 Resort Page Screenshot"
+        ></img>
         <div className="container row">
           <section className="col-9 text-align-center">
             Isle Finis Noctis
@@ -115,7 +127,11 @@ export default function Projects() {
         </div>
       </article>
       <article className="bg-secondary rounded col-12 col-md-3 mx-1 p-2 my-3">
-        <img className="mx-auto proj-img" src={marvel}></img>
+        <img
+          className="mx-auto proj-img"
+          src={marvel}
+          alt="Marvel Database Screenshot"
+        ></img>
         <div className="container row">
           <section className="col-9 text-align-center">Marvel Database</section>
           <a
@@ -141,7 +157,11 @@ export default function Projects() {
         </div>
       </article>
       <article className="bg-secondary rounded col-12 col-md-3 mx-1 p-2 my-3">
-        <img className="mx-auto proj-img" src={proj3}></img>
+        <img
+          className="mx-auto proj-img"
+          src={proj3}
+          alt="Placeholder image till project 3 is completed"
+        ></img>
         <div className="container row">
           <section className="col-9 text-align-center">
             InterStellar Index (Not Ready Yet)
