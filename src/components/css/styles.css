@@ -28,6 +28,21 @@ html {
 
 /* About Page */
 
+/* Portfolio Page */
+
+.proj-img {
+    display: flex;
+    justify-content: center;
+    max-width: 400px;
+    max-height: 100px;
+    overflow: hidden;
+}
+
+.link-icon {
+    width: 20px;
+    height: 20px;
+}
+
 /* Resume */
 
 .resume-button {
