@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Projects() {
   return (
-    <div className="container row justify-content-center mx-auto">
+    <div className="container row justify-content-center mx-auto rendered">
       <h1 className="col-12 row justify-content-center">My Projects</h1>
       <article className="col-12 col-md-4">
         <h2 className="row justify-content-center text-align-center">

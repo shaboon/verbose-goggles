@@ -2,7 +2,7 @@ import React from "react";
 
 export default function About() {
   return (
-    <div>
+    <div className="container p-3 mx-auto rendered">
       <h1>About Page</h1>
       <p className="about-opener">
         Hello World! My name is Sean Haboon, and I am studying with the goal to

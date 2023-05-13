@@ -2,20 +2,9 @@ import React from "react";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <div className="row bg-dark text-light">
-      <h1 className="justify-content-start col-8 px-5 nav-text">
-        My Portfolio
-      </h1>
-      <ul className="nav nav-tabs col-4 justify-content-end">
-        <li className="nav-item py-0">
-          <a
-            href="#home"
-            onClick={() => handlePageChange("Home")}
-            className={currentPage === "Home" ? "nav-link active" : "nav-link"}
-          >
-            Home
-          </a>
-        </li>
+    <div className="row bg-dark text-light nav-container">
+      <h1 className="justify-content-start col-9 px-5 nav-text">Sean Haboon</h1>
+      <ul className="nav nav-tabs col-3 justify-content-end">
         <li className="nav-item py-0">
           <a
             href="#about"
@@ -27,13 +16,24 @@ function NavTabs({ currentPage, handlePageChange }) {
         </li>
         <li className="nav-item py-0">
           <a
-            href="#projects"
-            onClick={() => handlePageChange("Projects")}
+            href="#portfolio"
+            onClick={() => handlePageChange("Portfolio")}
             className={
-              currentPage === "Projects" ? "nav-link active" : "nav-link"
+              currentPage === "Portfolio" ? "nav-link active" : "nav-link"
             }
           >
-            Projects
+            Portfolio
+          </a>
+        </li>
+        <li className="nav-item py-0">
+          <a
+            href="#resume"
+            onClick={() => handlePageChange("Resume")}
+            className={
+              currentPage === "Resume" ? "nav-link active" : "nav-link"
+            }
+          >
+            Resume
           </a>
         </li>
         <li className="nav-item py-0">
