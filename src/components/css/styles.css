@@ -9,18 +9,16 @@ html {
 }
 
 .rendered {
-    margin: 15px;
     width: 80%;
     height: 80%;
+    color: #ffffff;
     background-color: #525252;
+    margin-top: 30px;
+    opacity: 100%;
     border-radius: 25px
 }
 
 /* Nav */
-
-.nav-container {
-    -webkit-linear-gradient: (top left, #150C17, #535353)
-}
 
 .nav-text {
     font-size: 1.5em;
@@ -28,10 +26,64 @@ html {
     padding-left: 10px;
 }
 
-/* Home Page */
+/* About Page */
 
-.home {
-    background-repeat: no-repeat;
+/* Resume */
+
+.resume-button {
+    background-color: #252525;
+    margin-top: 26px;
+    padding: 15px;
+    border-radius: 30px;
+    color: #ffffff;
+    border: 5px solid #BDBDBD;
+    box-shadow: none;
+}
+
+.resume-button:hover {
+    animation: resume-shadow 1s infinite;
+}
+
+@keyframes resume-shadow {
+    50% {
+        box-shadow: #ffffff 0px 0px 15px;
+    }
+}
+
+.resume-button:active {
+    margin-top: 36px;
+    box-shadow: inset 0px -10px 15px #e44800;
+}
+
+/* Contact */
+
+.contact-head {
+    padding-top: 10px;
+}
+
+input {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 20px;
+}
+
+textarea {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.submit-btn {
+    background-color: #252525;
+    margin-top: 26px;
+    padding: 15px;
+    border-radius: 30px;
+    color: #ffffff;
+    border: 5px solid #BDBDBD;
+    box-shadow: none;
 }
 
 /* Footer */
@@ -45,8 +97,6 @@ html {
     background-color: #db6300;
 }
 
-
-
 .icon {
     width: 2%;
     height: 2%;
@@ -58,6 +108,7 @@ html {
 .icon:hover {
     animation: myshadow 1s infinite;
 }
+
 @keyframes myshadow {
     50% {
         box-shadow: #ffffff 0px 0px 15px;
