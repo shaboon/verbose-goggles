@@ -28,6 +28,11 @@ html {
 
 /* About Page */
 
+.portrait {
+    width: 80%;
+    height: auto;
+}
+
 /* Portfolio Page */
 
 .proj-img {
