@@ -6,7 +6,7 @@ import work from "./img/workday.png";
 import password from "./img/password-gen.png";
 import finis from "./img/finis.png";
 import marvel from "./img/marvel.png";
-import proj3 from "./img/NoImageAvailable.png";
+import proj3 from "./img/interstellar-index.herokuapp.com_.png";
 
 export default function Projects() {
   return (
@@ -19,6 +19,8 @@ export default function Projects() {
             Employee Tracker: CMS
           </section>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-3 justify-content-center text-align-center"
             href="https://github.com/shaboon/silver-palm-tree"
           >
@@ -41,6 +43,8 @@ export default function Projects() {
             Work Day Scheduler
           </section>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-1"
             href="https://github.com/shaboon/potential-guacamole"
           >
@@ -51,6 +55,8 @@ export default function Projects() {
             />
           </a>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-1"
             href="https://shaboon.github.io/potential-guacamole/"
           >
@@ -73,6 +79,8 @@ export default function Projects() {
             Password Generator
           </section>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-1"
             href="https://github.com/shaboon/expert-adventure-builtido"
           >
@@ -83,6 +91,8 @@ export default function Projects() {
             />
           </a>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-1"
             href="https://shaboon.github.io/expert-adventure-builtido/"
           >
@@ -105,6 +115,8 @@ export default function Projects() {
             Isle Finis Noctis
           </section>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-1"
             href="https://github.com/shaboon/improved-happiness"
           >
@@ -115,6 +127,8 @@ export default function Projects() {
             />
           </a>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-1"
             href="https://shaboon.github.io/improved-happiness/"
           >
@@ -135,6 +149,8 @@ export default function Projects() {
         <div className="container row">
           <section className="col-9 text-align-center">Marvel Database</section>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-1"
             href="https://github.com/anthonylieu/marvel-team-builder"
           >
@@ -145,6 +161,8 @@ export default function Projects() {
             />
           </a>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-1"
             href="https://intense-savannah-08912.herokuapp.com/"
           >
@@ -164,9 +182,11 @@ export default function Projects() {
         ></img>
         <div className="container row">
           <section className="col-9 text-align-center">
-            InterStellar Index (Not Ready Yet)
+            InterStellar Index
           </section>
           <a
+            target="_blank"
+            rel="noreferrer"
             className="col-3"
             href="https://github.com/shaboon/symmetrical-robot"
           >
@@ -174,6 +194,18 @@ export default function Projects() {
               src={github}
               className="link-icon mx-1"
               alt="Github Logo and Link"
+            />
+          </a>
+          <a
+            target="_blank"
+            rel="noreferrer"
+            className="col-1"
+            href="https://interstellar-index.herokuapp.com/"
+          >
+            <img
+              src={website}
+              className="link-icon"
+              alt="Link to Deployed Website"
             />
           </a>
         </div>
