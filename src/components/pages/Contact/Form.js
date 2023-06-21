@@ -69,7 +69,11 @@ export default function Form() {
         }`}
         value={message}
         onChange={(e) => setMessage(e.target.value)}
-        placeholder={badMessage ? "Please enter your message" : "Message"}
+        placeholder={
+          badMessage
+            ? "Please enter your message"
+            : "Your Message - or - You can also directly email me at shaboon3928@gmail.com"
+        }
       />
 
       <button
