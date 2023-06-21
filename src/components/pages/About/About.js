@@ -12,7 +12,7 @@ export default function About() {
             to become a software-engineer of the full-stack flavor.
           </p>
           <p className="self-dox text-light">
-            I am live in Greensboro, NC and am currently enrolled in the UNCC
+            I am located in Greensboro, NC and am currently enrolled in the UNCC
             Full-Stack Coding bootcamp.
           </p>
           <p className="intro text-light">
@@ -33,6 +33,40 @@ export default function About() {
             alt="picture of Sean Haboon"
           />
         </div>
+      </div>
+      <div className="container row">
+        <article className="col-12 col-md-6">
+          <h2 className="text-light">Bio</h2>
+          <p className="text-light">Hi -filler content-</p>
+        </article>
+      </div>
+      <div className="container row">
+        <article className="col-12 col-md-6">
+          <h2 className="text-light">Skills</h2>
+          <ul className="text-light">
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Node.js</li>
+            <li>Express.js</li>
+            <li>MySQL</li>
+            <li>MongoDB</li>
+            <li>React</li>
+            <li>Bootstrap</li>
+            <li>jQuery</li>
+            <li>Git</li>
+            <li>GitHub</li>
+            <li>Heroku</li>
+            <li>Handlebars</li>
+            <li>RESTful APIs</li>
+            <li>JSON</li>
+            <li>Command Line</li>
+            <li>Object Oriented Programming</li>
+            <li>Test Driven Development</li>
+            <li>Progressive Web Applications</li>
+            <li>Agile Development</li>
+          </ul>
+        </article>
       </div>
     </div>
   );
