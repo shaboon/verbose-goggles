@@ -34,16 +34,10 @@ export default function About() {
           />
         </div>
       </div>
-      <div className="container row">
-        <article className="col-12 col-md-6">
-          <h2 className="text-light">Bio</h2>
-          <p className="text-light">Hi -filler content-</p>
-        </article>
-      </div>
-      <div className="container row">
-        <article className="col-12 col-md-6">
-          <h2 className="text-light">Skills</h2>
-          <ul className="text-light">
+      <div className="container">
+        <h2 className="text-light">Skills</h2>
+        <article className="col-12 col-md-6 scroll-container">
+          <ul className="text-light scroll-text">
             <li>HTML</li>
             <li>CSS</li>
             <li>JavaScript</li>
