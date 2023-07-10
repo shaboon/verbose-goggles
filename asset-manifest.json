@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/verbose-goggles/static/css/main.cdabd73e.css",
-    "main.js": "/verbose-goggles/static/js/main.f3826e72.js",
+    "main.css": "/verbose-goggles/static/css/main.4462f742.css",
+    "main.js": "/verbose-goggles/static/js/main.f5208d35.js",
     "static/media/finis.png": "/verbose-goggles/static/media/finis.40c6d9d1c1793d1862a9.png",
     "static/media/IMG_2470.jpg": "/verbose-goggles/static/media/IMG_2470.bec2ea74fc8df27a6e90.jpg",
     "static/media/marvel.png": "/verbose-goggles/static/media/marvel.f80233280bce11fd40b9.png",
     "static/media/password-gen.png": "/verbose-goggles/static/media/password-gen.4e86dec144fbac1440da.png",
+    "static/media/interstellar-index.herokuapp.com_.png": "/verbose-goggles/static/media/interstellar-index.herokuapp.com_.b8d5c177756df58c93a9.png",
     "static/media/workday.png": "/verbose-goggles/static/media/workday.e756b64b6b9539d9d1e5.png",
-    "static/media/NoImageAvailable.png": "/verbose-goggles/static/media/NoImageAvailable.3332b7084ea1fe8e85d5.png",
     "static/media/cmsrunning.png": "/verbose-goggles/static/media/cmsrunning.bf8a18a7dbec70fa36d0.png",
     "static/media/world-wide-web.png": "/verbose-goggles/static/media/world-wide-web.10a2be69190b69626a3e.png",
     "static/media/github.png": "/verbose-goggles/static/media/github.05f6c17b8cd04c28456f.png",
     "index.html": "/verbose-goggles/index.html",
-    "main.cdabd73e.css.map": "/verbose-goggles/static/css/main.cdabd73e.css.map",
-    "main.f3826e72.js.map": "/verbose-goggles/static/js/main.f3826e72.js.map"
+    "main.4462f742.css.map": "/verbose-goggles/static/css/main.4462f742.css.map",
+    "main.f5208d35.js.map": "/verbose-goggles/static/js/main.f5208d35.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdabd73e.css",
-    "static/js/main.f3826e72.js"
+    "static/css/main.4462f742.css",
+    "static/js/main.f5208d35.js"
   ]
 }
