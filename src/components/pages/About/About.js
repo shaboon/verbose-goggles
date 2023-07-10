@@ -16,14 +16,21 @@ export default function About() {
             Full-Stack Coding bootcamp.
           </p>
           <p className="intro text-light">
-            I have always been drawn to technology as a child. While it was on
-            the more destructive side, I took apart everything I could and
-            familiarized myself with its contents. As I have grown, I grew my
+            Since a young age, I've messed with both the physical internals of
+            computers as well as the software side. As I have grown, I grew my
             ability to dissect and understand the inner workings of most things
             presented to me. While late to the field, I finally stumbled upon
             web-related code via FreeCodeCamp and a friend and found a slight
             affinity to it. While I may not be the most well-studied individual,
             I am fast at picking up nuiances and am always willing to learn.
+            <br />
+            During the bootcamp, I was presented with oppertunities to
+            understand the fundamentals of web-development as well as the
+            work-flow for team projects. Furthermore, each assignment revealed
+            weaknesses within my approach to specific bugs and issues as well as
+            my ability to understand content. Following the bootcamp, I not only
+            walked away with a greater understanding of available resources, but
+            also a solid foundation for team-based Web-Development.
           </p>
         </article>
         <div className="col-12 col-md-3">
