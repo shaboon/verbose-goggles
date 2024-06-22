@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/verbose-goggles/static/css/main.4462f742.css",
-    "main.js": "/verbose-goggles/static/js/main.6cf299e9.js",
+    "main.js": "/verbose-goggles/static/js/main.fdf2814f.js",
     "static/media/finis.png": "/verbose-goggles/static/media/finis.40c6d9d1c1793d1862a9.png",
     "static/media/IMG_2470.jpg": "/verbose-goggles/static/media/IMG_2470.bec2ea74fc8df27a6e90.jpg",
     "static/media/marvel.png": "/verbose-goggles/static/media/marvel.f80233280bce11fd40b9.png",
@@ -13,10 +13,10 @@
     "static/media/github.png": "/verbose-goggles/static/media/github.05f6c17b8cd04c28456f.png",
     "index.html": "/verbose-goggles/index.html",
     "main.4462f742.css.map": "/verbose-goggles/static/css/main.4462f742.css.map",
-    "main.6cf299e9.js.map": "/verbose-goggles/static/js/main.6cf299e9.js.map"
+    "main.fdf2814f.js.map": "/verbose-goggles/static/js/main.fdf2814f.js.map"
   },
   "entrypoints": [
     "static/css/main.4462f742.css",
-    "static/js/main.6cf299e9.js"
+    "static/js/main.fdf2814f.js"
   ]
 }
