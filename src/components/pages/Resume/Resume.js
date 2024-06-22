@@ -28,10 +28,10 @@ export default function Resume() {
         </div>
         <div className="col-4">
           <article className="mx-auto row">
-            <p>6 Spring Oak Drive,</p>
-            <p>Greensboro NC 27410</p>
+            <p>360 S Graham Street,</p>
+            <p>Charlotte NC, 28202</p>
             <p>Cell Number: (336) 912-2937</p>
-            <p>shaboon3928@gmail.com</p>
+            <p>shaboon.dev@gmail.com</p>
           </article>
           <button className="col-12 mx-auto my-3 row justify-content-center align-items-center resume-button">
             <a
