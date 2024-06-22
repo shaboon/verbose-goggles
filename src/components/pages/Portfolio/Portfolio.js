@@ -50,7 +50,7 @@ export default function Projects() {
           >
             <img
               src={github}
-              className="link-icon mx-1"
+              className="link-icon mx-1 p-1"
               alt="Github Logo and Link"
             />
           </a>
@@ -86,7 +86,7 @@ export default function Projects() {
           >
             <img
               src={github}
-              className="link-icon mx-1"
+              className="link-icon mx-1 p-1"
               alt="Github Logo and Link"
             />
           </a>
@@ -122,7 +122,7 @@ export default function Projects() {
           >
             <img
               src={github}
-              className="link-icon mx-1"
+              className="link-icon mx-1 p-1"
               alt="Github Logo and Link"
             />
           </a>
@@ -156,7 +156,7 @@ export default function Projects() {
           >
             <img
               src={github}
-              className="link-icon mx-1"
+              className="link-icon mx-1 p-1"
               alt="Github Logo and Link"
             />
           </a>
@@ -192,7 +192,7 @@ export default function Projects() {
           >
             <img
               src={github}
-              className="link-icon mx-1"
+              className="link-icon mx-1 p-1"
               alt="Github Logo and Link"
             />
           </a>
